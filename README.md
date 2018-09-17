@@ -1,4 +1,4 @@
-If you failed to install and run this tracker, please email me (<zhangyunhua@mail.dlut.edu.cn>)
+If you fail to install and run this tracker, please email me (<zhangyunhua@mail.dlut.edu.cn>)
 
 # Introduction
 
@@ -43,6 +43,3 @@ A sample `test_vot_long.py` file can be found in this root folder. You only need
 # CPU manner
 If you want to run this code on CPU, you need to just set os.environ \["CUDA_VISIBLE_DEVICES"\]="" in the begin of `python_long_MBMD.py`
 
-# MBMD
-Code for VOT2018 long-term challenge.  
-The code is comming soon.
