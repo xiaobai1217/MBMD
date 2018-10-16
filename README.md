@@ -25,7 +25,6 @@ Then you should copy the two files to the folder of our code.
 # Integrate into VOT-2018
 
 The interface for integrating the tracker into the vot evaluation tool kit is implemented in the module `python_long_MBMD.py`. The script `tracker_MBMD.m` is needed to be copied to vot-tookit.  
-A sample `test_vot_long.py` file can be found in this root folder. You only need to change the directories in this file.  
 
 # CPU manner
 If you want to run this code on CPU, you need to just set os.environ \["CUDA_VISIBLE_DEVICES"\]="" in the begin of `python_long_MBMD.py`
