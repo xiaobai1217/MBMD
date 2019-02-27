@@ -2,7 +2,7 @@ If you fail to install and run this tracker, please email me (<zhangyunhua@mail.
 
 # Introduction
 
-This repository includes tensorflow code of MBMD (MobileNet-based tracking by detection algorithm) for VOT2018 Long-Term Challenge.  
+This repository includes tensorflow code of **MBMD** (MobileNet-based tracking by detection algorithm) for VOT2018 Long-Term Challenge.  
 The corresponding arxiv paper has been drafted on Arxiv.  
 [Learning regression and verification networks for long-term visual tracking](https://arxiv.org/abs/1809.04320).  
 Yunhua Zhang, Dong Wang, Lijun Wang, Jinqing Qi, Huchuan Lu
